@@ -1,6 +1,6 @@
 from django.db import models
 
-# Create your models here.
+# Create your awesome models here.
 
 
 class Product(models.Model):
